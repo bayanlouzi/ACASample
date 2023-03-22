@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "connectionString": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=bayanstrgacct;AccountKey=HQDWA19GpMAb+gII7JdGHvMQOO1KMJHK0vLiU4fMouPbM7J0orD7w8xTEtaaGLgU0sogxaC1FLyO+ASt/RiR9w==;BlobEndpoint=https://bayanstrgacct.blob.core.windows.net/;FileEndpoint=https://bayanstrgacct.file.core.windows.net/;QueueEndpoint=https://bayanstrgacct.queue.core.windows.net/;TableEndpoint=https://bayanstrgacct.table.core.windows.net/"
+    
+  }
+}
